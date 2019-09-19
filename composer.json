@@ -15,6 +15,6 @@
         }
     ],
     "require": {
-        "bup/api"
+        "bup/api": "^1.0.0"
     }
 }
