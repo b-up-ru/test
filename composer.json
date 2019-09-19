@@ -2,6 +2,6 @@
     "name": "bup/test",
     "description": "A short description of what your package does test",
     "require": {
-        "php": "^7.0",        
+        "php": "^7.0"     
     }
 }
