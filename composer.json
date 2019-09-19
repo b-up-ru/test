@@ -1,6 +1,18 @@
 {
     "name": "bup/test",
     "description": "A short description of what your package does test",
+    "type": "library",    
+    "keywords": ["test","testingg"],
+    "homepage": "https://github.com/b-up-ru/test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Monte",
+            "email": "info@biznesup.com",
+            "homepage": "https://biznesup.com",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": "^7.0"     
     }
